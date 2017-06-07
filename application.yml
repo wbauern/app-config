@@ -14,8 +14,8 @@ logging:
 ribbon: # <---NEW SECTION
   IsSecure: false
 
-#spring:
-#  cloud:
-#    services:
-#      registrationMethod: direct
+spring:
+  cloud:
+    services:
+      registrationMethod: direct
 
