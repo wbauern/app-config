@@ -17,5 +17,5 @@ ribbon: # <---NEW SECTION
 spring:
   cloud:
     services:
-      registrationMethod: direct
+      registrationMethod: route
 
