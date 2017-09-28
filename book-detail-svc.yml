@@ -1,2 +1,2 @@
-primary.delay.ms: 225
+primary.delay.ms: 5
 logger.level.pivotal.io.booksvc: DEBUG
