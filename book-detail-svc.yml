@@ -1,2 +1,11 @@
 primary.delay.ms: 1
 logger.level.pivotal.io.booksvc: DEBUG
+
+security:
+  basic:
+    enabled: false # turn off securing our application endpoints
+
+management:
+  security:
+    enabled: false # turn off securing the actuator endpoints
+
